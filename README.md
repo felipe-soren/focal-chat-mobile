@@ -11,7 +11,6 @@ For development, you will need Node.js and React Native installed.
     $ cd focal-chat-mobile/
     $ yarn install || npm -i
     $ react-native run-android
-    $ node index
     
 ## Demo
 <p float="left">
